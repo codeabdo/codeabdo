@@ -30,36 +30,4 @@ Also: Full-Stack Development
 | Project | Stack | Impact |
 |---|---|---|
 | [**Spotify Data Cleaning**](https://github.com/codeabdo/Spotify_Data_Cleaning) | Python, Pandas, NumPy | Cleaned a 10K-track dataset: missing values, outliers, and invalid entries |
-| [**SuperStore Sales Dashboard**](https://github.com/codeabdo/SuperStore_Sales_Dashboard) | Excel, Power Query, Power Pivot | Interactive dashboard on a Star Schema model with KPIs, trends, and slicers |
-| [**HR Analytics Dashboard**](https://github.com/codeabdo/HR_Project_Dashboard) | Excel / Power BI, Figma | HR metrics dashboard with a Figma-designed layout |
-| **Marketing Analytics Dashboard** | Python, Power BI | ROI, CLV, and conversion rate analysis with customer segmentation |
-| **Sales Dashboard** | Power BI, Excel | KPI visualization and reporting |
-| **Streamlit Dashboard** | Python, Streamlit | Interactive CSV analysis and KPI visualization |
-
----
-
-## 🏢 Experience
-
-**Data Analysis Course | Instant**
-Completed a hands-on data analysis course, taking real datasets from raw data to finished dashboards. Applied data cleaning, modeling, and visualization to build projects that deliver clear business insights.
-
-**CIB Summer Internship Program: Generative AI**
-
----
-
-## 🎓 Education
-
-**Helwan National University**: Bachelor of Business Intelligence and Analytical Systems
-Expected Graduation: June 2027 | GPA: 3.67/4.0
-
-**Google Data Analytics Certificate**: Foundations: Data, Data, Everywhere
-
----
-
-## 🎯 Currently Learning
-
-Advanced Python for Data Analysis • SQL • Power BI & DAX • Tableau • Plotly • Full-Stack Development
-
----
-
-⭐ *Turning data into insights, one project at a time.*
+| [**SuperStore Sales Dashboard**](https://github.com/codeabdo/SuperStore_Sales_Dashboard) | Excel, Power Query, Power Pivot | Interactive dashboard on a Star Schema model with KPIs,
