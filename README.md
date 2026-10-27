@@ -30,4 +30,6 @@ Also: Full-Stack Development
 | Project | Stack | Impact |
 |---|---|---|
 | [**Spotify Data Cleaning**](https://github.com/codeabdo/Spotify_Data_Cleaning) | Python, Pandas, NumPy | Cleaned a 10K-track dataset: missing values, outliers, and invalid entries |
-| [**SuperStore Sales Dashboard**](https://github.com/codeabdo/SuperStore_Sales_Dashboard) | Excel, Power Query, Power Pivot | Interactive dashboard on a Star Schema model with KPIs,
+| [**SuperStore Sales Dashboard**](https://github.com/codeabdo/SuperStore_Sales_Dashboard) | Excel, Power Query, Power Pivot | Interactive dashboard on a Star Schema model with KPIs, trends, and slicers |
+| [**HR Analytics Dashboard**](https://github.com/codeabdo/HR_Project_Dashboard) | Excel / Power BI, Figma | HR metrics dashboard with a Figma-designed layout |
+| [**Supply Chain Analytics Dashboard**](https://github.com/codeabdo/Supplychai_Analytics_Dashboard) | Excel / Power BI | Supply chain performance analytics dashboard |
