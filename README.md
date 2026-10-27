@@ -6,70 +6,60 @@ Business Intelligence student at Helwan National University, interested in data 
 
 My goal is to transform raw data into meaningful insights that support better business decisions.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-magdy-dev/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201017502446) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjdyb659@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeabdo)
+
 ---
 
 ## 🛠️ Technical Skills
 
-**📈 Data Analysis**
+**📈 Data Analysis**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**📊 Business Intelligence & Visualization**
+**📊 Business Intelligence & Visualization**<br>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**💻 Development & Tools**
+**💻 Development & Tools**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square)
 
 Also: Full-Stack Development
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 📊 Marketing Analytics Dashboard
-- Cleaned and analyzed marketing datasets using Python.
-- Calculated ROI, Customer Lifetime Value (CLV), and Conversion Rate.
-- Built interactive Power BI dashboards.
-- Performed customer segmentation and business analysis.
+| Project | Stack | Impact |
+|---|---|---|
+| [**Spotify Data Cleaning**](https://github.com/codeabdo/Spotify_Data_Cleaning) | Python, Pandas, NumPy | Cleaned a 10K-track dataset: missing values, outliers, and invalid entries |
+| [**SuperStore Sales Dashboard**](https://github.com/codeabdo/SuperStore_Sales_Dashboard) | Excel, Power Query, Power Pivot | Interactive dashboard on a Star Schema model with KPIs, trends, and slicers |
+| [**HR Analytics Dashboard**](https://github.com/codeabdo/HR_Project_Dashboard) | Excel / Power BI, Figma | HR metrics dashboard with a Figma-designed layout |
+| **Marketing Analytics Dashboard** | Python, Power BI | ROI, CLV, and conversion rate analysis with customer segmentation |
+| **Sales Dashboard** | Power BI, Excel | KPI visualization and reporting |
+| **Streamlit Dashboard** | Python, Streamlit | Interactive CSV analysis and KPI visualization |
 
-### 💰 Sales Dashboard
-- Developed interactive dashboards using Power BI and Excel.
-- Worked on KPI visualization and reporting.
+---
 
-### 🐍 Streamlit Dashboard
-- Built an interactive dashboard for CSV analysis and KPI visualization.
+## 🏢 Experience
+
+**Data Analysis Course | Instant**
+Completed a hands-on data analysis course, taking real datasets from raw data to finished dashboards. Applied data cleaning, modeling, and visualization to build projects that deliver clear business insights.
+
+**CIB Summer Internship Program: Generative AI**
 
 ---
 
 ## 🎓 Education
 
-**Helwan National University**
-Bachelor of Business Intelligence and Analytical Systems
-- Expected Graduation: June 2027
-- GPA: 3.67/4.0
+**Helwan National University**: Bachelor of Business Intelligence and Analytical Systems
+Expected Graduation: June 2027 | GPA: 3.67/4.0
+
+**Google Data Analytics Certificate**: Foundations: Data, Data, Everywhere
 
 ---
 
-## 📜 Training & Certifications
+## 🎯 Currently Learning
 
-- CIB Summer Internship Program – Generative AI
-- Google Data Analytics Certificate
-  - Foundations: Data, Data, Everywhere
+Advanced Python for Data Analysis • SQL • Power BI & DAX • Tableau • Plotly • Full-Stack Development
 
 ---
-
-## 🎯 Current Learning Goals
-
-- Advanced Python for Data Analysis
-- SQL for Data Analytics
-- Power BI & DAX
-- Tableau
-- Interactive Data Visualization with Plotly
-- Full-Stack Development
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-magdy-dev/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mjdyb659@gmail.com)
 
 ⭐ *Turning data into insights, one project at a time.*
