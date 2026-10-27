@@ -45,7 +45,7 @@ Also: Full-Stack Development
 **Helwan National University**
 Bachelor of Business Intelligence and Analytical Systems
 - Expected Graduation: June 2027
-- GPA: 3.6/4.0
+- GPA: 3.67/4.0
 
 ---
 
